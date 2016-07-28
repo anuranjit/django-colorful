@@ -6,4 +6,4 @@ __all__ = ['VERSION', '__version__']
 
 VERSION = (1, 2, 1, 'alpha', 0)
 
-__version__ = "1.3.1"
+__version__ = "1.8"
